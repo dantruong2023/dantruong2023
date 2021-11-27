@@ -2,10 +2,6 @@
 
 ### Hi there 👋
 
-##<h2>Interaction</h2><br>
-<img src="https://img.shields.io/github/forks/merlin2x3/myth-01.svg"></img> Myth-01<br>
-<img src="https://img.shields.io/github/followers/merlin2x3.svg?style=social&label=Follow&maxAge=2592000"></img>
-
 ## 👁️‍🗨️ Khách đến thăm nhà:    <img height="30px" Width="290px" src="https://profile-counter.glitch.me/merlin2x3/count.svg">
 
 ## My infomation
