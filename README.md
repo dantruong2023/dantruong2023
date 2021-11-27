@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-## 👁️‍🗨️ Khách đến thăm nhà:    <img height="30px" Width="290px" src="https://profile-counter.glitch.me/merlin2x3/count.svg">
+## 👁️‍🗨️ Visitor Count:    <img height="30px" Width="290px" src="https://profile-counter.glitch.me/merlin2x3/count.svg">
 
 ## My infomation
 - 🔭 Working on science and technology 
