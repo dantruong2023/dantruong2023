@@ -9,7 +9,7 @@
 - 🌱 Currently learning C,C++,Python,C#...
 - 💬 Ask me about Project,Idea,Knowledge,... anything you can ask :3
 - 📫 Contact me: <a href="https://www.facebook.com/berlin.03">Facebook</a> or <a href="https://www.instagram.com/_berlin.04/">Instagram</a>
-- 😄 Nickname: myth
+- 😄 Nickname: merlin
 - ⚡  Fun fact: "Code mà không ra bug thì thực sự là tẻ nhạt =)))))"
 - 📝 About me: Thực sự mình không có chảnh mà do mình bận việc quá íiiiiiiii =)))))
 - 💰 Momo/MB Bank: 0795155630
